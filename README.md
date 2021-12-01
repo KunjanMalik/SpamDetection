@@ -4,4 +4,8 @@
 
 #Medium article: https://medium.com/@kunjanmalik1/spam-messages-classification-using-natural-language-processing-and-machine-learning-9c9957f055e5
 
+#YouTube Link: https://youtu.be/GwgddYzmzA8
+
+#PPT link: https://docs.google.com/presentation/d/1CZFKXy5QWQa9ffjd7KzicHbttkjEnloR/edit?usp=sharing&ouid=115763614156046879279&rtpof=true&sd=true
+
 #Source: https://www.researchgate.net/publication/353679906_Content-based_SMS_Spam_Messages_classification_using_Natural_Language_Processing_and_Machine_Learning
